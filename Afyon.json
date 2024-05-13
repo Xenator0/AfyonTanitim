@@ -2,12 +2,12 @@
     { 
        "isim" :"Ulu Camii",
        "aciklama":"Afyon Ulu Cami, Anadolu Selçukluları döneminde 1272-1277 yılları arasında Sancakbeyi Nusretiddun Hasan tarafından Mimar Emir Hacı Bey’e yaptırılmıştır.",
-        "fotourl":"https://raw.githubusercontent.com/Kerden22/EdirneTanit/main/Selimiye%20Camii.png" 
+        "fotourl":"https://raw.githubusercontent.com/Xenator0/AfyonTanitim/main/ulu%20Camii.JPG" 
     },
     {
         "isim":"Afyon Kalesi",
         "aciklama":"Afyonkarahisar şehir merkezinde, sönmüş bir volkanın üzerinde yer alan, yerden yüksekliği 226 metre olan doğal yükseltili bir kaya kütlesi üzerinde yer alan bir kaledir.",
-        "fotourl":"https://raw.githubusercontent.com/Kerden22/EdirneTanit/main/Meri%C3%A7%20K%C3%B6pr%C3%BCs%C3%BC.png" 
+        "fotourl":"https://raw.githubusercontent.com/Xenator0/AfyonTanitim/main/kale.JPG" 
     },     
 
     {
@@ -18,7 +18,7 @@
     { 
          "isim" :"Başkomutan tarihi milli parkı",
          "aciklama":"Afyonkarahisar’ın 20 km. güneyinde Kocatepe (Büyükkalecik) kasabasından 8 km daha yukarıda, 1874 rakımlı Kocatepe üzerinde bulunmaktadır. ",
-         "fotourl":"https://raw.githubusercontent.com/Kerden22/EdirneTanit/main/Arasta.png" 
+         "fotourl":"https://raw.githubusercontent.com/Xenator0/AfyonTanitim/main/milli.JPG" 
     }
 
 ]}
